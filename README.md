@@ -26,8 +26,7 @@ data set ready to use.
 * [Standardization](#Standardization)<br>
 
 
-The second notebook: Credit card fraud2_MLmodels.ipynb deals with the models used and metrics. If you want to run the file, make sure you have card_df_standard.pkl
-in your same folder in order to upload the processed dataframe.
+The second notebook: Credit card fraud2_MLmodels.ipynb deals with the models used and the metrics used. If you want to run the file, make sure you have card_df_standard.pkl in your same folder in order to upload the processed dataframe. This file can be created by uncommenting the pickle command in the last line of notebook 1. 
 # Outline
 *[Validation and training datasets](#Validation-and-training-datasets)<br>
 *[Imbalanced data](#Imbalanced-data)<br>
